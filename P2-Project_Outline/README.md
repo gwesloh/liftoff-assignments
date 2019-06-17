@@ -7,11 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I will be creating a web app that allows users to import data from multiple sources, clean the data, and search the data for specific criteria.
 ### Features
-Include Features here
+User Login- to ensure the data is protected
+File Importer- to import csv or excel documents
+Data Cleaner- match new columns or rows to existing or create new columns, rows, or tags
+Search Function- Allow users to search for a list of entries.
 ### Technologies
-Include Technologies here
+Python
+SQL
+Bootstrap
+MySQL
+Flask
+Jinja2
+MysqlAlchemy
+Html
+CSS
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Advanced SQL
+regular expressions
